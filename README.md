@@ -1,4 +1,4 @@
-<img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
+ googleclound-gemini-3.5 live extensions install https://github.com/ChromeDevTools/chrome-devtools-mcp<img src="https://avatars2.githubusercontent.com/u/2810941?v=3&s=96" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
 # [Release Please](https://github.com/googleapis/release-please)
 
